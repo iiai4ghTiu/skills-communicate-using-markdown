@@ -4,6 +4,13 @@
 
 ## h2 Header
 
+```C
+int main(void)
+{
+    return 0;
+}
+```
+
 ### h3 Header
 
 #### h4 Header
